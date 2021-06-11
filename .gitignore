@@ -1,0 +1,10 @@
+*.log
+*.pot
+*.pyc
+__pycache__
+db.sqlite3
+media
+.env
+.DS_Store
+note.md
+fastparcel-ad5d0-firebase-adminsdk-9jlda-eec9e2178d.json

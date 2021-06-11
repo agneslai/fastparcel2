@@ -1,0 +1,17 @@
+{
+    "short_name": "Fast Parcel",
+    "name": "Welcome to Fast Parcel App",
+    "description": "The best place for shipping",
+    "theme_color": "#FEB40E",
+    "background_color": "#fff",    
+    "icons": [
+        {
+            "src": "/static/img/logo.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "orientation": "portrait",
+    "start_url": "/courier/",
+    "display": "standalone"
+}
